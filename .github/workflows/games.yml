@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -22,6 +19,14 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman,snake,tetris"
           hide_month_labels: "false"
+
+      - name: Alias dark variants to published names
+        run: |
+          for f in dist/*-contribution-graph-dark.svg; do
+            [ -e "$f" ] || continue
+            base=$(basename "$f")
+            cp "$f" "dist/dark-${base%-contribution-graph-dark.svg}-contribution-graph.svg"
+          done
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

@@ -59,17 +59,17 @@ I'm a **visual artist** blending **cinematic video editing** and **expressive gr
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/dark-pacman-contribution-graph.svg" />
     <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/pacman-contribution-graph.svg" />
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/snake-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/dark-snake-contribution-graph.svg" />
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/snake-contribution-graph.svg" />
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/tetris-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/dark-tetris-contribution-graph.svg" />
     <img alt="Tetris on my contributions" src="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/tetris-contribution-graph.svg" />
   </picture>
 </p>
