@@ -17,7 +17,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman,snake,tetris"
+          games: "pacman"
           hide_month_labels: "false"
 
       - name: Alias dark variants to published names
