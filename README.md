@@ -48,7 +48,10 @@ I'm a **visual artist** blending **cinematic video editing** and **expressive gr
 ## GitHub tracker
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aliplfrh&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&hide_title=true&card_width=420" alt="Live GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aliplfrh&amp;hide_border=true&amp;short_numbers=true&amp;card_width=420&amp;theme=github-dark-blue" />
+    <img height="165" src="https://streak-stats.demolab.com?user=aliplfrh&amp;hide_border=true&amp;short_numbers=true&amp;card_width=420&amp;theme=default" alt="Live GitHub streak tracker" />
+  </picture>
 </p>
 
 ---
