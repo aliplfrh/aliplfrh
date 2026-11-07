@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/aliplfrh.png" width="120" alt="Alief Lutfha'ul Ridho" />
+<img src="https://github.com/aliplfrh.png" width="120" alt="Alief Lutfa'ul Ridho" />
 
 # Alief Lutfa'ul Ridho
 
@@ -29,43 +29,6 @@ I'm a **visual artist** blending **cinematic video editing** and **expressive gr
 
 ---
 
-## Selected work
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="https://i.imgur.com/0RDmipm.png" height="320" alt="MOTION — Brainstorming" /><br/>
-<strong>MOTION — Brainstorming</strong><br/>
-<sub>Nol Derajat Film · 2025 · Video Editor &amp; Colorist</sub><br/>
-Educational reels about brainstorming in filmmaking.
-</td>
-<td width="50%" align="center" valign="top">
-<img src="https://i.imgur.com/7X71CQH.png" height="320" alt="Apatte62 Champion Poster" /><br/>
-<strong>Apatte62 Champion Poster</strong><br/>
-<sub>Apatte62 Elang Energi · 2025 · Lead Graphic Designer</sub><br/>
-Winning poster for Shell Eco Marathon 2024.
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="https://i.imgur.com/4mq0WUw.jpeg" height="320" alt="It's Okay, I'm Here" /><br/>
-<strong>It's Okay, I'm Here</strong><br/>
-<sub>Amba Frame · 2025 · Editor &amp; Post-Production Supervisor</sub><br/>
-A short film about Andi fighting his panic attacks and trauma.
-</td>
-<td width="50%" align="center" valign="top">
-<img src="https://i.imgur.com/t6obuEb.png" height="320" alt="Inshii.co Product Catalog" /><br/>
-<strong>Inshii.co Product Catalog</strong><br/>
-<sub>Phantom Records · 2023 · Graphic Designer</sub><br/>
-Full product catalog designed for Instagram.
-</td>
-</tr>
-</table>
-
-<p align="right"><a href="https://aliplfrh.netlify.app/portofolio">See the full portfolio →</a></p>
-
----
-
 ## Toolbox
 
 <p>
@@ -79,6 +42,37 @@ Full product catalog designed for Instagram.
 </p>
 
 **Also building with** — React · TypeScript · Vite · Framer Motion
+
+---
+
+## GitHub tracker
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aliplfrh&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&hide_title=true&card_width=420" alt="Live GitHub stats" />
+</p>
+
+---
+
+## Mini games
+
+<sub>Auto-generated every day from my contribution graph.</sub>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/pacman-contribution-graph-dark.svg" />
+    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/pacman-contribution-graph.svg" />
+  </picture>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/snake-contribution-graph-dark.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/snake-contribution-graph.svg" />
+  </picture>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/tetris-contribution-graph-dark.svg" />
+    <img alt="Tetris on my contributions" src="https://raw.githubusercontent.com/aliplfrh/aliplfrh/output/tetris-contribution-graph.svg" />
+  </picture>
+</p>
 
 ---
 
