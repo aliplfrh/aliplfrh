@@ -2,7 +2,7 @@
 
 <img src="https://github.com/aliplfrh.png" width="120" alt="Alief Lutfha'ul Ridho" />
 
-# Alief Lutfha'ul Ridho
+# Alief Lutfa'ul Ridho
 
 **Visual Artist · Cinematic Video Editor · Graphic Designer**
 
