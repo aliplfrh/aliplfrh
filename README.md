@@ -13,7 +13,7 @@
 <a href="https://youtube.com/@aliplfrh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://instagram.com/aliplfrh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-<sub><a href="https://aliplfrh.netlify.app">portfolio</a> · <a href="https://aliplfrh.netlify.app/about">about</a> · <a href="https://aliplfrh.netlify.app/portofolio">work</a></sub>
+<sub><a href="https://aliplfrh.netlify.app">portfolio</a> · <a href="https://aliplfrh.netlify.app/about">about</a> · <a href="https://aliplfrh.netlify.app/portofolio">work</a> · <a href="https://aliplfrh.netlify.app/resume.pdf">resume</a></sub>
 
 </div>
 
