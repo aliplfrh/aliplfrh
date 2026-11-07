@@ -1,31 +1,31 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://github.com/aliplfrh.png" width="120" alt="Alief Lutfha'ul Ridho" />
 
 # Alief Lutfha'ul Ridho
 
-**Visual Artist · Cinematic Video Editor · Graphic Designer**
+**Visual Artist Â· Cinematic Video Editor Â· Graphic Designer**
 
-<sub>Based in Indonesia · Working worldwide</sub>
+<sub>Based in Indonesia Â· Working worldwide</sub>
 
 <a href="https://aliplfrh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/aliplfrh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://youtube.com/@aliplfrh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://instagram.com/aliplfrh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-<sub><a href="https://aliplfrh.netlify.app">portfolio</a> · <a href="https://aliplfrh.netlify.app/about">about</a> · <a href="https://aliplfrh.netlify.app/portofolio">work</a> · <a href="https://aliplfrh.netlify.app/resume.pdf">resume</a></sub>
+<sub><a href="https://aliplfrh.netlify.app">portfolio</a> Â· <a href="https://aliplfrh.netlify.app/about">about</a> Â· <a href="https://aliplfrh.netlify.app/portofolio">work</a> Â· <a href="https://aliplfrh.netlify.app/resume.pdf">resume</a></sub>
 
 </div>
 
 ---
 
-Hi, I'm Alief! 👋
+Hi, I'm Alief! ðŸ‘‹
 
 I'm a **visual artist** blending **cinematic video editing** and **expressive graphic design** into work that stirs emotion and leaves a lasting impression. Three years in, my focus is cinematic editing, expressive color grading, and cohesive visual identities across mediums.
 
-- 🎬 **Editing & color** — narrative cuts, pacing, and grades that carry the mood
-- 🎨 **Design & branding** — posters, catalogs, and identity systems that hold together
-- 🎞️ **Film community** — staff at Nol Derajat Film, branding for Apatte62
+- ðŸŽ¬ **Editing & color** â€” narrative cuts, pacing, and grades that carry the mood
+- ðŸŽ¨ **Design & branding** â€” posters, catalogs, and identity systems that hold together
+- ðŸŽžï¸ **Film community** â€” staff at Nol Derajat Film, branding for Apatte62
 
 ---
 
@@ -33,36 +33,36 @@ I'm a **visual artist** blending **cinematic video editing** and **expressive gr
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://i.imgur.com/0RDmipm.png" width="100%" alt="MOTION — Brainstorming" /><br/>
-<strong>MOTION — Brainstorming</strong><br/>
-<sub>Nol Derajat Film · 2025 · Video Editor &amp; Colorist</sub><br/>
+<td width="50%" align="center" valign="top">
+<img src="https://i.imgur.com/0RDmipm.png" height="320" alt="MOTION â€” Brainstorming" /><br/>
+<strong>MOTION â€” Brainstorming</strong><br/>
+<sub>Nol Derajat Film Â· 2025 Â· Video Editor &amp; Colorist</sub><br/>
 Educational reels about brainstorming in filmmaking.
 </td>
-<td width="50%">
-<img src="https://i.imgur.com/7X71CQH.png" width="100%" alt="Apatte62 Champion Poster" /><br/>
+<td width="50%" align="center" valign="top">
+<img src="https://i.imgur.com/7X71CQH.png" height="320" alt="Apatte62 Champion Poster" /><br/>
 <strong>Apatte62 Champion Poster</strong><br/>
-<sub>Apatte62 Elang Energi · 2025 · Lead Graphic Designer</sub><br/>
+<sub>Apatte62 Elang Energi Â· 2025 Â· Lead Graphic Designer</sub><br/>
 Winning poster for Shell Eco Marathon 2024.
 </td>
 </tr>
 <tr>
-<td width="50%">
-<img src="https://i.imgur.com/4mq0WUw.jpeg" width="100%" alt="It's Okay, I'm Here" /><br/>
+<td width="50%" align="center" valign="top">
+<img src="https://i.imgur.com/4mq0WUw.jpeg" height="320" alt="It's Okay, I'm Here" /><br/>
 <strong>It's Okay, I'm Here</strong><br/>
-<sub>Amba Frame · 2025 · Editor &amp; Post-Production Supervisor</sub><br/>
+<sub>Amba Frame Â· 2025 Â· Editor &amp; Post-Production Supervisor</sub><br/>
 A short film about Andi fighting his panic attacks and trauma.
 </td>
-<td width="50%">
-<img src="https://i.imgur.com/t6obuEb.png" width="100%" alt="Inshii.co Product Catalog" /><br/>
+<td width="50%" align="center" valign="top">
+<img src="https://i.imgur.com/t6obuEb.png" height="320" alt="Inshii.co Product Catalog" /><br/>
 <strong>Inshii.co Product Catalog</strong><br/>
-<sub>Phantom Records · 2023 · Graphic Designer</sub><br/>
+<sub>Phantom Records Â· 2023 Â· Graphic Designer</sub><br/>
 Full product catalog designed for Instagram.
 </td>
 </tr>
 </table>
 
-<p align="right"><a href="https://aliplfrh.netlify.app/portofolio">See the full portfolio →</a></p>
+<p align="right"><a href="https://aliplfrh.netlify.app/portofolio">See the full portfolio â†’</a></p>
 
 ---
 
@@ -78,15 +78,15 @@ Full product catalog designed for Instagram.
 <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut" />
 </p>
 
-**Also building with** — React · TypeScript · Vite · Framer Motion
+**Also building with** â€” React Â· TypeScript Â· Vite Â· Framer Motion
 
 ---
 
 ## Currently
 
-- 🎞️ Editing, grading, and designing with **Nol Derajat Film** and **Apatte62**
-- 🖥️ Rebuilding my portfolio — [personal-porto](https://github.com/aliplfrh/personal-porto)
-- 🎓 Studying Animal Science at **Universitas Brawijaya**
+- ðŸŽžï¸ Editing, grading, and designing with **Nol Derajat Film** and **Apatte62**
+- ðŸ–¥ï¸ Rebuilding my portfolio â€” [personal-porto](https://github.com/aliplfrh/personal-porto)
+- ðŸŽ“ Studying Animal Science at **Universitas Brawijaya**
 
 ---
 
@@ -94,6 +94,6 @@ Full product catalog designed for Instagram.
 
 **Open to film, editing, and design collaborations.**
 
-<sub><a href="https://aliplfrh.netlify.app">aliplfrh.netlify.app</a> · <a href="https://linkedin.com/in/aliplfrh">LinkedIn</a> · <a href="https://instagram.com/aliplfrh">Instagram</a></sub>
+<sub><a href="https://aliplfrh.netlify.app">aliplfrh.netlify.app</a> Â· <a href="https://linkedin.com/in/aliplfrh">LinkedIn</a> Â· <a href="https://instagram.com/aliplfrh">Instagram</a></sub>
 
 </div>
