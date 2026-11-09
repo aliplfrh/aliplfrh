@@ -73,6 +73,7 @@ I'm a **visual artist** blending **cinematic video editing** and **expressive gr
 
 - 🎞️ Editing, grading, and designing with **Nol Derajat Film** and **Apatte62**
 - 🖥️ Rebuilding my portfolio — [personal-porto](https://github.com/aliplfrh/personal-porto)
+- 🖥️ Making side little project - [Sunny](https://github.com/aliplfrh/sunny)
 - 🎓 Studying Animal Science at **Universitas Brawijaya**
 
 ---
